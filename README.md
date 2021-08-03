@@ -12,6 +12,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rgibranz)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgibranz&layout=compact)
 
+---
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
@@ -22,3 +23,7 @@
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+
+---
+## About Writing
+Apart from coding, I like to write on [my website](https://rgibranz.github.io). I write in my native language, Indonesian. i like to write about linux, programming, and other things i love.
