@@ -21,9 +21,9 @@
 
 ---
 ## My Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rgibranz&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgibranz&layout=compact&theme=gruvbox)
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rgibranz&theme=gruvbox)
+![GitHub stats](https://readme-stats-five.vercel.app/api?username=rgibranz&theme=gruvbox)
+![Top Langs](https://readme-stats-five.vercel.app/api/top-langs/?username=rgibranz&layout=compact&langs_count=10&theme=gruvbox)
+![wakatime stats](https://readme-stats-five.vercel.app/api/wakatime?username=rgibranz&theme=gruvbox)
 ---
 ## About Writing
 Apart from coding, I like to write on [my website](https://rgibranz.github.io). I write in my native language, Indonesian. i like to write about linux, programming, and other things i love.
