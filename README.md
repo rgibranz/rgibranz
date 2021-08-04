@@ -6,13 +6,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rgibranz)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rgibranz/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rgibranz)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/rgibranz)
----
-## My Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rgibranz)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgibranz&layout=compact)
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rgibranz)
-
 
 ---
 ## 🔧 Technologies & Tools
@@ -26,6 +19,11 @@
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
+---
+## My Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rgibranz)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgibranz&layout=compact)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rgibranz)
 ---
 ## About Writing
 Apart from coding, I like to write on [my website](https://rgibranz.github.io). I write in my native language, Indonesian. i like to write about linux, programming, and other things i love.
