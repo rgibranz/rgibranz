@@ -21,7 +21,7 @@
 
 ---
 ## My Github Stats
-![GitHub stats](https://readme-stats-five.vercel.app/api?username=rgibranz&theme=gruvbox)
+![GitHub stats](https://readme-stats-five.vercel.app/api?username=rgibranz&theme=gruvbox&count_private=true&show_icons=true)
 ![Top Langs](https://readme-stats-five.vercel.app/api/top-langs/?username=rgibranz&layout=compact&langs_count=10&theme=gruvbox)
 ![wakatime stats](https://readme-stats-five.vercel.app/api/wakatime?username=rgibranz&theme=gruvbox)
 ---
