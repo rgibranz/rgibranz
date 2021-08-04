@@ -23,6 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial PHP Dasar Untuk Pemula Bagian 10 | Constants](https://rgibranz.github.io/tutorial/php/php-dasar-10/)
+- [Tutorial PHP Dasar Untuk Pemula Bagian 9 | Math](https://rgibranz.github.io/tutorial/php/php-dasar-9/)
+- [Tutorial PHP Dasar Untuk Pemula Bagian 8 | Numbers](https://rgibranz.github.io/tutorial/php/php-dasar-8/)
+- [Tutorial PHP Dasar Untuk Pemula Bagian 7 | String](https://rgibranz.github.io/tutorial/php/php-dasar-7/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
