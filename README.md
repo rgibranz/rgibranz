@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rgibranz" target="blank"><img src="https://img.shields.io/twitter/follow/rgibranz?logo=twitter&style=for-the-badge" alt="rgibranz" /></a> </p>
 
-- 🔭 I’m currently working on **vue-notes-app**
+- 🔭 I’m currently working on **Vue-Castle-Duel-Browser-Game**
 
 - 🌱 I’m currently learning **Laravel, Vue.**
 
