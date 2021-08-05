@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial PHP Dasar Untuk Pemula Bagian 10 | Constants](https://rgibranz.github.io/tutorial/php/php-dasar-10/)
-- [Tutorial PHP Dasar Untuk Pemula Bagian 9 | Math](https://rgibranz.github.io/tutorial/php/php-dasar-9/)
-- [Tutorial PHP Dasar Untuk Pemula Bagian 8 | Numbers](https://rgibranz.github.io/tutorial/php/php-dasar-8/)
-- [Tutorial PHP Dasar Untuk Pemula Bagian 7 | String](https://rgibranz.github.io/tutorial/php/php-dasar-7/)
+- [Saya Mau Nulis Tutorial Php](https://rgibranz.github.io/tulisan/saya-mau-nulis-tutorial-php/)
+- [Cara Install PHPMyAdmin Di Ubuntu 20.04](https://rgibranz.github.io/tutorial/ubuntu/cara-install-phpmyadmin-di-ubuntu-20.04/)
+- [Cara Install LAMP Server Di Ubuntu 20.04](https://rgibranz.github.io/tutorial/ubuntu/cara-install-lamp-server-di-ubuntu-20.04/)
+- [Ubuntu LTS Dan Interim](https://rgibranz.github.io/tulisan/ubuntu-lts-dan-interim/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
