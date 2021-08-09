@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Laravel, Vue.**
 
-- 👨‍💻 All of my projects are available at [http://rgibranz.github.io/my-portfolio#projects](http://rgibranz.github.io/my-portfolio#projects)
+- 👨‍💻 All of my projects are available at [http://rgibranz.github.io/my-portfolio#Projects](http://rgibranz.github.io/my-portfolio#projects)
 
 - 📝 I regularly write articles on [http://rgibranz.github.io](http://rgibranz.github.io)
 
