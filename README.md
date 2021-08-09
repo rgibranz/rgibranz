@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/rgibranz" target="blank"><img src="https://img.shields.io/twitter/follow/rgibranz?logo=twitter&style=for-the-badge" alt="rgibranz" /></a> </p>
 
-- 🔭 I’m currently working on **Vue-Castle-Duel-Browser-Game**
+- 🔭 I’m currently working on **e-katalog**
 
 - 🌱 I’m currently learning **Laravel, Vue.**
 
-- 👨‍💻 All of my projects are available at [http://rgibranz.rf.gd](http://rgibranz.rf.gd)
+- 👨‍💻 All of my projects are available at [http://rgibranz.github.io/my-portfolio#projects](http://rgibranz.github.io/my-portfolio#projects)
 
 - 📝 I regularly write articles on [http://rgibranz.github.io](http://rgibranz.github.io)
 
 - 📫 How to reach me **rgibran234@gmail.com**
 
-- 📄 Know about my experiences [http://rgibranz.rf.gd](http://rgibranz.rf.gd)
+- 📄 Know about my experiences [http://rgibranz.github.io/my-portfolio](http://rgibranz.github.io/my-portfolio)
 
 - ⚡ Fun fact **I love cats**😼
 
