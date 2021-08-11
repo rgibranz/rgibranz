@@ -50,3 +50,4 @@
 
 <p>&nbsp;<img align="center" src="https://readme-stats-five.vercel.app/api/wakatime?username=rgibranz" alt="rgibranz" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rgibranz&" alt="rgibranz" /></p>
+<figure><embed src="https://wakatime.com/share/@rgibranz/0240d16f-c008-451c-aedf-61450dda9313.svg"></embed></figure>
