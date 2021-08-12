@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Menghilangakan Index.php dan membuat clean url pada codeigniter 3](https://rgibranz.github.io/tutorial/codeigniter/menghilangakan-index.php-dan-membuat-clean-url-pada-codeigniter-3/)
 - [Membuat Base_URL Dinamis Codeigniter 3](https://rgibranz.github.io/tutorial/codeigniter/membuat-base_url-dinamis-codeigniter-3/)
 - [Mengaktifkan Mod_Rewrite Apache Di Manjaro](https://rgibranz.github.io/tutorial/manjaro/mengaktifkan-mod_rewrite-apache-di-manjaro/)
 - [Cara Install PHPMyAdmin Di Ubuntu 20.04](https://rgibranz.github.io/tutorial/ubuntu/cara-install-phpmyadmin-di-ubuntu-20.04/)
-- [Cara Install LAMP Server Di Ubuntu 20.04](https://rgibranz.github.io/tutorial/ubuntu/cara-install-lamp-server-di-ubuntu-20.04/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
