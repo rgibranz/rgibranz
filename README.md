@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahmat Gibran Zulbadriansyah</h1>
-<h3 align="center">A Ubuntu Linux User And PHP Programmer</h3>
+<h3 align="center">A Linux User And PHP Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rgibranz&label=Profile%20views&color=0e75b6&style=flat" alt="rgibranz" /> </p>
 
