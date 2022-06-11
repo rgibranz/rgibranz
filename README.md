@@ -7,13 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rgibranz/](https://github.com/rgibranz/)
 
-- 📝 I regularly write articles on [https://rgibranz.github.io/](https://rgibranz.github.io/)
-
-- 💬 Ask me about **Codeigniter,Bootstrap**
-
 - 📫 How to reach me **rgibran234@gmail.com**
-
-- ⚡ Fun fact **I Love Cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
