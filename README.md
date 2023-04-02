@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently work at [Korpora Consulting](https://korporaconsulting.com/)
 
-- 🌱 I’m currently learning At **Localhost**
-
 - 👨‍💻 All of my projects are available at [https://github.com/rgibranz/](https://github.com/rgibranz/)
 
 - 📫 How to reach me **rgibran234@gmail.com**
