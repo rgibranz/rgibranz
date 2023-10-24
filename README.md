@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahmat Gibran Zulbadriansyah</h1>
 <h3 align="center">A Linux User And PHP Programmer</h3>
 
-- 🔭 I’m currently work at [Korpora Consulting](https://korporaconsulting.com/)
+#- 🔭 I’m currently work at [Korpora Consulting](https://korporaconsulting.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rgibranz/](https://github.com/rgibranz/)
 
