@@ -19,4 +19,4 @@
 
 [![Top Langs](https://github-readme-stats-lilac-eta-13.vercel.app/api/top-langs/?username=rgibranz)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats]([https://github-readme-stats-lilac-eta-13.vercel.app/api/wakatime?username=rgibranz&layout=compact&langs_count=10](https://github-readme-stats-lilac-eta-13.vercel.app/api/wakatime?username=rgibranz&layout=compact&langs_count=10))](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-lilac-eta-13.vercel.app/api/wakatime?username=rgibranz&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
