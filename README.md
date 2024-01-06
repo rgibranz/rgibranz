@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahmat Gibran Zulbadriansyah</h1>
 <h3 align="center">A Linux User And Fullstack Developer</h3>
 
+[![wakatime](https://wakatime.com/badge/user/6c81c3bf-9f39-4e2a-86db-272ecfcb6528.svg)](https://wakatime.com/@6c81c3bf-9f39-4e2a-86db-272ecfcb6528)
+[![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rgibranz&theme=monokai)]()
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user={username}&theme={theme_name})]()
 - 👨‍💻 All of my projects are available at [https://github.com/rgibranz/](https://github.com/rgibranz/)
 
 - 📫 How to reach me **rgibran234@gmail.com**
